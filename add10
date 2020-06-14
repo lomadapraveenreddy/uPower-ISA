@@ -1,6 +1,6 @@
 .data
-x: .word 0,2,3
-y: .word 10
+x: .word 0
+y: .word 11
 sum: .word 0
 .text
 la r3,x
